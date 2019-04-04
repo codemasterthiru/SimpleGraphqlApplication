@@ -1,0 +1,2 @@
+# SimpleGraphqlApplication
+Created with CodeSandbox
